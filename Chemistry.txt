@@ -151,29 +151,10 @@ DESTROY AFTER READING[/head][/color]
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠋⠀⠀⠀⠀⠀⠀⠀
 
-
-    [color=#aaaaaa][bold][italic]END OF FAX
-
-
-[color=#AFAFAF]█▀  █▀▀  ▀█[head=3] Spinward Syndicate[/head]
-█     ▀▀█     █  For the future.
-▀▀  ▀▀▀  ▀▀
-[italic][color=#E5E5E5]This document contains classified information. DO NOT DISTRIBUTE.[/italic][/color]
-[color=#AFAFAF]▌ICD12834911[/color]
-
-[color=#550000]╔═════════════════╦══════════════════════╗[/color]
-[color=#550000]║██▀░░▄█████▄░░▀██║[color=#4D4D4D][bold]
-[color=#550000]║█▌░░░██▄░░░░░░░▐█║[/color]Recruiter: [color=black]Glenallen Fid[/color]
-[color=#550000]║█▌░░░░▀███▄░░░░▐█║[/color]Candidate: [color=black]███ ██████[/color]
-[color=#550000]║█▌░░░░░░░▀██░░░▐█║[/color]
-[color=#550000]║██▄░░▀█████▀░░▄██║[/color]Contract ID: [color=black]45751[/color]
-[color=#550000]╚═════════════════╩══════════════════════╝[/color]
-[head=3]Cybersun Incorporated[/head]
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][bold][italic]
-    [/bold][/italic][/color][/bold][/color][/color]
-    Hereby, I, Glenallen Fid, recognize the candidate, ███ ██████, as a potential Syndicate Contractor.
-
     They are to be instructed, trained and their soul captured at the base N° █████, where they are to be taught the arts of sabotage and subterfuge to acomplish their objectives.
     The agreed upon payment per month is ██ spesos, shall they not break this contract. In which case it would cause the immediate hunt of them and shall be punished by death, on the charges of "Treason to High Command".
     
     [color=#aaaaaa][bold][italic]Signature of the Candidate:
+
+
+
