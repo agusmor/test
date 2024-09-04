@@ -1,0 +1,179 @@
+Chemistry guidelines
+Bicardine Family = Brute Meds
+ Inaprovaline – Oxygen + Carbon + Sugar 1:1:1 = 3 – Inap (H. Asphyx) (Crit only) [DON'T MIX WITH DYLO]
+ Bicardine – Inaprovaline + Carbon 1:1 = 2 – Bicar (H. Brute) (OD 15u)
+ Puncturase (Heated) – Bicardine + Hydroxide[Oxygen + Hydrogen 1:1 + Heat] + Heat 1:1 = 2 – Punct (H. Pierce) (OD 11u) (Don’t mix w/ brute)
+ Bruizine (Heated) – Bicardine + Lithium + Sugar 1:1:1 = 2 –  Bruiz (H. Blunt) (OD 10u) (Don’t mix w/ brute)
+ Lacerinol (Heated) – Bicardine + Benzene[Hydrogen + Carbon 1:1 = 0.5] 1:1 = 2 – Lacer (H. Slash) (OD 12u) (Don’t mix w/ brute)
+
+Dylovene Family = Poison Meds / Radiation Meds
+ Dylovene – Silicon + Nitrogen + Potassium 1:1:1 = 3 – Dylo (H. Poison) (OD 20u)
+ Ethylredoxrazine – Dylovene + Oxygen + Carbon 1:1:1 = 3 – Anti–Drunk (H. Drunkenness) 
+ Hyronalin – Dylovene + Radium 1:1 = 2 
+ Arithrazine – Hyronalin + Hydrogen 1:1 = 2 – Arith (H. Rads) (Deals brute damage) (No OD)
+ Phalanximine – Hyronalin + Ethanol + Mutagen 1:1:1 = 3 – Phalanx (H. Genetic) (Deals Rads) (No OD)
+ Diphenhydramine (Heated) = Diethylamine [Ammonia + Ethanol 1:1] + Oil + Table Salt + Carbon + Ethanol 1:1:1:1:1 = 3 – Diphenhydramine
+ 
+Kelotane Family = Burn Meds
+ Kelotane – Silicon + Carbon 1:1 = 2
+ Dermaline – Kelotane + Oxygen + Phosphorus 1:1:1 = 3 – Derma (H. Cold, Shock and Heat) (OD 10u)
+ Sigynate (Heated) – Sodium Carbonate [Ammonia, Table Salt, Carbon, Oxygen] + Kelotane + Water + Sugar + Sodium Hydroxide [Hydroxide [Oxygen + Hydrogen + Heat] + Sodium 1:1] 1:1:1:1:1 = 4 – Sigy (H. Caustic) (OD 15+)
+ Leporazine – Copper + Fersilicite [Iron + Silicon] + Plasma 1:1:1 = 2 – Lepo (H. Cold)
+ Pyrazine (Heated) – Leporazine + Dermaline + Carbon 1:1:1 = 3 – Pyra (H. Heat) (OD 20u)
+ Insuzine (Heated) – Leporazine + Kelotane + Silicon 1:1:1:1 = 3 – Insuz (H. Shock) (OD 12u)
+ Siderlac (Better H. Caustic) [No OD]
+
+Dex Family = Asphyxiation Meds
+ Dexaline – Oxygen + Plasma 2:1 = 3
+ Dex+ – Dexaline + Carbon + Iron 1:1:1 = 3 – Dex+ (H. Airloss) (OD 25u)
+ 
+Specialty Meds
+ Tricordrazine – Dylovene + Inaprovaline 1:1 = 2 – Tricor (General) (< 50 T.Damage)
+ Saline – Water + Table Salt 4:1 = 5 – Saline (Helps recover blood)
+ Oculine – Hydroxide + Table Salt + Blood 2:1:1 = – Oculine (H. Blind)
+ Cryoxadone – Dex + Water + Oxygen 1:1:1 = 3 – Cyro (H. All – Used in cryo)
+ Ambuzol – Zombie blood + Dylo + Ammonia 2:1:1 = 4 Ambuzol (Anti–Zombie)
+ Ambuzol+ – Ambuzol + Omnizine 15:5 = 5 Ambuzol+ (Anti–Zombie + immunity)
+ Epinephrine – Phenol [Hydroxide + Benzene] + Acetone [Oil + Welding fuel + Oxygen] + Chlorine + Hydroxide  1:1:1:1 = Epi [20u OD] (H. Airloss + General dmg. Only crit)
+
+Specialty Chems
+ Unstable Mutagen – Radium + Phosphorus + Chlorine 1:1:1 = 3 
+ Table Salt – Chlorine + Sodium 1:1 = 2
+ Oil – Welding Fuel + Carbon + Hydrogen 1:1:1 = 3
+ Ammonia – Hydrogen + Nitrogen 3:1 = 4
+ Diethylamine – Ammonia + Ethanol 1:1 = 2
+ Sodium Carbonate – Ammonia + Table Salt + Carbon + Oxygen 1:1:1:1 = 4
+ Hydroxide (Heated) – Oxygen + Hydrogen 1:1 = 2
+ Sodium Hydroxide – Hydroxide + Sodium 1:1 = 2
+ Benzene (heated) – Hydrogen + Carbon 1:1 = 1
+ Leporazine – Copper + Fesilicite + Plasma 1:1:1 = 2
+ Fesilicite (Heated) – Iron + Silicon 1:1 = 2
+ Synaptizine – Lithium + Sugar + Water = Synap (Removes stun and halucinations) (Deals Poison)
+ Sulfuric Acid – Oxygen + Hydrogen + Sulfur 2:1:1 = Sulf. Acid
+ 
+Regen. Mesh – 1 Ointment, 1 Cloth, 1 Aloe, 20 Sigynate, 20 Dermaline = 10 Regen.Mesh.
+Suture Kit – 1 poppy, 1 Bruise Pack, 1 Cloth, 20u Tranexamic Acid, 20u Cryptobiolin = 10 Suture Kits
+
+Fluorsulfactant
+ [ 5 Sulfur + 5 Hydrogen + 10 Oxygen] 30 Carbon + 30 Fluorine
+
+Gunpowder
+ 6 parts pottasium 2 parts charcoal and sulfur
+ EMP its 1/1/1 mix of uranium, aluminium and iron. 
+
+ Smoke bomb
+  Potassium + Phosphorus + Sugar 1:1:1
+
+  
+ While foam agent (not flurosurfactant) + fluoro acid + iron with the ratio of 1/1/3, can creat an area of foam turning into iron walls 
+
+
+The total initial reactants for 30 plastic sheets are:
+100 hydrogen
+80 carbon
+80 welding fuel
+40 oxygen
+20 sulfur
+
+Jugomancy
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+ ░░░░░░░░░░░░[color=#67CC40]████████████[/color]░░░░░░░░░░
+░░░░░░████[color=#6EC543]██[/color][color=#67CC40]████████[/color]██████░░░░░░░░
+░░░░████[color=#6EC543]██[/color][color=#67CC40]████████[/color]██████[color=#FFFFFF]██[/color]██░░░░░░
+░░░░██[color=#6EC543]██[/color][color=#67CC40]██████████[/color]██████████░░░░░░
+░░[color=#6EC543]██████[/color][color=#67CC40]██████████[/color]██████████░░░░░░
+[color=#6EC543]██████[/color][color=#67CC40]██████████████[/color]██████░░░░░░░░
+[color=#6EC543]██████[/color][color=#67CC40]████████████████████[/color]░░░░░░░░
+[color=#6EC543]██████████[/color][color=#67CC40]██████████████[/color]░░░░░░░░░░
+░░[color=#6EC543]██[/color][color=#FF2020]██[/color][color=#FF3D3D]██[/color][color=#6EC543]████████[/color][color=#67CC40]████[/color][color=#86E158]██[/color]░░░░░░░░░░░░
+░░░░[color=#FF2020]██[/color][color=#FF3D3D]██[/color]░░░░[color=#86E158]████████[/color][color=#6EC543]██[/color][color=#61D034]██[/color]░░░░░░░░[color=#56B037]██[/color]
+░░░░[color=#FF2020]██[/color]░░░░[color=#A8EB7A]██[/color][color=#B5EE85]██████[/color][color=#A8EB7A]██[/color][color=#6EC543]████[/color][color=#61D034]██[/color]░░░░[color=#56B037]██[/color][color=#48A926]██[/color]
+░░░░░░░░[color=#A8EB7A]██[/color][color=#B5EE85]██████████[/color][color=#A8EB7A]██[/color][color=#6EC543]████[/color][color=#56B037]██[/color][color=#48A926]██████[/color]
+░░░░[color=#6EC543]██[/color][color=#61D034]██[/color][color=#A8EB7A]██[/color][color=#B5EE85]██████████[/color][color=#A8EB7A]██[/color][color=#48A926]████████████[/color]
+░░░░[color=#6EC543]████[/color][color=#86E158]██[/color][color=#A8EB7A]██[/color][color=#B5EE85]████[/color][color=#A8EB7A]██[/color][color=#86E158]██[/color][color=#61D034]████[/color][color=#6EC543]██[/color][color=#48A926]████[/color][color=#52A037]██[/color]░░
+░░░░[color=#6EC543]████[/color][color=#61D034]██[/color][color=#86E158]████████[/color][color=#61D034]██[/color][color=#6EC543]██████[/color][color=#52A037]████[/color]░░░░
+░░░░░░[color=#6EC543]████[/color]░░░░░░░░[color=#6EC543]████████[/color]░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░[color=#6EC543]████[/color]░░░░░░░░░░
+
+
+
+
+[color=#AFAFAF]█▀  █▀▀  ▀█[head=3] Spinward Syndicate[/head]
+█     ▀▀█     █  For the future.
+▀▀  ▀▀▀  ▀▀
+[italic][color=#E5E5E5]This document contains classified information. DO NOT DISTRIBUTE.[/italic]
+[head=3][color=#2E0404]SECURE FAX
+DESTROY AFTER READING[/head][/color]
+[color=#AFAFAF]▌ICD12834911[/color]
+
+[color=#550000]╔═════════════════╦══════════════════════╗[/color]
+[color=#550000]║██▀░░▄█████▄░░▀██║[color=#4D4D4D][bold]SUBJECT: [color=black]███████████████[/color]
+[color=#550000]║█▌░░░██▄░░░░░░░▐█║[/color]SENDER: [color=black]██████ █████[/color]
+[color=#550000]║█▌░░░░▀███▄░░░░▐█║[/color]RECIPIENT: [color=black]███ ██████[/color]
+[color=#550000]║█▌░░░░░░░▀██░░░▐█║[/color]FAX #11993
+[color=#550000]║██▄░░▀█████▀░░▄██║[/color]MACHINE ID: [color=black]██████[/color]
+[color=#550000]╚═════════════════╩══════════════════════╝[/color]
+[head=3]Cybersun Incorporated[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][bold][italic]
+    [color=#aaaaaa]START FAX[/color][/bold][/italic][/color][/bold][/color][/color]
+
+⠀⠀⠀⢰⠶⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠶⠲⣄⠀
+⠀⠀⣠⡟⠀⠈⠙⢦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⡶⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠾⠋⠁⠀⠀⢽⡄
+⠀⠀⡿⠀⠀⠀⠀⠀⠉⠷⣄⣀⣤⠤⠤⠤⠤⢤⣷⡀⠙⢷⡄⠀⠀⠀⠀⣠⠞⠉⠀⠀⠀⠀⠀⠈⡇
+⠀⢰⡇⠀⠀⠀⠀⠀⠀⠀⠉⠳⣄⠀⠀⠀⠀⠀⠈⠁⠀⠀⠹⣦⠀⣠⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀⡗
+⠀⣾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣻⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣏
+⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡇
+⠀⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠂
+⠀⢿⠀⠀⠀⠀⣤⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣤⡀⠀⠀⠀⠀⠀⣸⠇⠀
+⠀⠘⣇⠀⠀⠀⠀⠉⠉⠛⠛⢿⣶⣦⠀⠀⠀⠀⠀⠀⢴⣾⣟⣛⡋⠋⠉⠉⠁⠀⠀⠀⠀⣴⠏⠀⠀
+⢀⣀⠙⢷⡄⠀⠀⣀⣤⣶⣾⠿⠋⠁⠀⢴⠶⠶⠄⠀⠀⠉⠙⠻⠿⣿⣷⣶⡄⠀⠀⡴⠾⠛⠛⣹⠇
+⢸⡍⠉⠉⠉⠀⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⣬⠷⣆⣠⡤⠄⢀⣤⠞⠁⠀
+⠈⠻⣆⡀⠶⢻⣇⡴⠖⠀⠀⠀⣴⡀⣀⡴⠚⠳⠦⣤⣤⠾⠀⠀⠀⠀⠀⠘⠟⠋⠀⠀⠀⢻⣄⠀⠀
+⠀⠀⣼⠃⠀⠀⠉⠁⠀⠀⠀⠀⠈⠉⢻⡆⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⠀
+⠀⢠⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡀⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀⠀⣀⡿⠧⠿⠿⠟⠀⠀
+⠀⣾⡴⠖⠛⠳⢦⣿⣶⣄⣀⠀⠀⠀⠀⠘⢷⣀⠀⣸⠃⠀⠀⠀⣀⣀⣤⠶⠚⠉⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠈⠻⠦⠀⠀⠀⠀⠉⠉⠁⠀⠀⠀⠀⠹⣆⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⡴⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢳⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⡄⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⢲⡗⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡆⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠋⠀⠀⠀⠀⠀⠀⠀
+
+
+    [color=#aaaaaa][bold][italic]END OF FAX
+
+
+[color=#AFAFAF]█▀  █▀▀  ▀█[head=3] Spinward Syndicate[/head]
+█     ▀▀█     █  For the future.
+▀▀  ▀▀▀  ▀▀
+[italic][color=#E5E5E5]This document contains classified information. DO NOT DISTRIBUTE.[/italic][/color]
+[color=#AFAFAF]▌ICD12834911[/color]
+
+[color=#550000]╔═════════════════╦══════════════════════╗[/color]
+[color=#550000]║██▀░░▄█████▄░░▀██║[color=#4D4D4D][bold]
+[color=#550000]║█▌░░░██▄░░░░░░░▐█║[/color]Recruiter: [color=black]Glenallen Fid[/color]
+[color=#550000]║█▌░░░░▀███▄░░░░▐█║[/color]Candidate: [color=black]███ ██████[/color]
+[color=#550000]║█▌░░░░░░░▀██░░░▐█║[/color]
+[color=#550000]║██▄░░▀█████▀░░▄██║[/color]Contract ID: [color=black]45751[/color]
+[color=#550000]╚═════════════════╩══════════════════════╝[/color]
+[head=3]Cybersun Incorporated[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color][bold][italic]
+    [/bold][/italic][/color][/bold][/color][/color]
+    Hereby, I, Glenallen Fid, recognize the candidate, ███ ██████, as a potential Syndicate Contractor.
+
+    They are to be instructed, trained and their soul captured at the base N° █████, where they are to be taught the arts of sabotage and subterfuge to acomplish their objectives.
+    The agreed upon payment per month is ██ spesos, shall they not break this contract. In which case it would cause the immediate hunt of them and shall be punished by death, on the charges of "Treason to High Command".
+    
+    [color=#aaaaaa][bold][italic]Signature of the Candidate:
